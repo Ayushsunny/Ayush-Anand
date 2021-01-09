@@ -11,7 +11,7 @@
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - 📫 How to reach me - [ayush100anand@gmail.com](mailto:ayush100anand@gmail.com) 
-- 🎮 I love to play Guitar
+- 🎸 I love to play Guitar
 - ⚡ Fun fact: Sadly there isn't anything fun about me!
 - ![](https://komarev.com/ghpvc/?username=Ayushsunny&color=blue)
 <hr />

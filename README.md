@@ -1,1 +1,42 @@
-# README.md
+
+
+ 
+ <h1> Welcome to my Github </h1>
+
+ <h3> Hello World !👋 </h3> 
+
+ <h4>  I'm Ayush Anand, a human being who is passionate about simplifying things through technology.👋 </h4>  
+
+- 🌱 Currently working w/ MERN stack ( Too mainstream right! )
+- 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
+- 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
+- 📫 How to reach me - [ayush100anand@gmail.com](mailto:ayush100anand@gmail.com) 
+- 🎮 I love to play Guitar
+- ⚡ Fun fact: Sadly there isn't anything fun about me!
+- ![](https://komarev.com/ghpvc/?username=Ayushsunny&color=blue)
+<hr />
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Ayushsunny&show_icons=true&theme=dark&count_private=true&hide=prs)
+
+
+ ### Competitive Programming Profiles
+
+<a href="https://www.hackerrank.com/Ayush100">
+  <img align="left" alt="Ayush Anand| Hackerrank" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/hr.svg" />
+</a>
+<a href="https://www.codechef.com/users/ayush_anand1">
+  <img align="left" alt="Ayush Anand | Codechef" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/cc.png" />
+</a>
+<br/>
+<br/>
+
+ ### Connect w/ Me
+
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cse.19bcs4519@gmail.com)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
+[facebook]: https://www.facebook.com/Ayush.sunny.shiw/
+[instagram]: https://www.instagram.com/chifladoo/   
+[linkedin]: https://www.linkedin.com/in/ayush-sunny/

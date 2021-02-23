@@ -38,5 +38,5 @@
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 [facebook]: https://www.facebook.com/Ayush.sunny.shiw/
-[instagram]: https://www.instagram.com/chifladoo/   
+[instagram]: https://www.instagram.com/ayuszzh/   
 [linkedin]: https://www.linkedin.com/in/ayush-sunny/

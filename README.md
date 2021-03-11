@@ -7,7 +7,7 @@
 
  <h4>  I'm Ayush Anand, a human being who is passionate about simplifying things through technology.👋 </h4>  
 
-- 🌱 Currently working w/ MERN stack ( Too mainstream right! )
+- 🌱 Currently working as a AppDev 
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - 📫 How to reach me - [ayush100anand@gmail.com](mailto:ayush100anand@gmail.com) 

@@ -5,7 +5,7 @@
 
  <h3> Hello World !👋 </h3> 
 
- <h4>  I'm Ayush Anand, a human being who is passionate about simplifying things through technology.👋 </h4>  
+ <h4>  I'm Ayush Anand, a human being who is passionate about simplifying things through technology.👋 </h4>   
 
 - 🌱 Currently working as a AppDev 
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects

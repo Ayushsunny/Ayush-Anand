@@ -7,7 +7,7 @@
 
  <h4>  I'm Ayush Anand, a human being who is passionate about simplifying things through technology.👋 </h4>   
 
-- 🌱 Currently working as a AppDev 
+- 🌱 Currently working as a AI/ML Dev 
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - 📫 How to reach me - [ayush100anand@gmail.com](mailto:ayush100anand@gmail.com) 
@@ -16,7 +16,7 @@
 - ![](https://komarev.com/ghpvc/?username=Ayushsunny&color=blue)
 <hr />
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Ayushsunny&show_icons=true&theme=dark&count_private=true&hide=prs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Ayushsunny&show_icons=true&theme=dark&count_private=true)
 
 
  ### Competitive Programming Profiles

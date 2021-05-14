@@ -42,6 +42,6 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-[facebook]: https://www.facebook.com/Ayush.sunny.shiw/
-[instagram]: https://www.instagram.com/ayuszzh/   
+[facebook]: https://www.facebook.com/Ayuszzh/
+[instagram]: https://www.instagram.com/Ayuszzh/   
 [linkedin]: https://www.linkedin.com/in/ayush-sunny/

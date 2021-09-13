@@ -26,7 +26,7 @@
 
  ### Competitive Programming Profiles
 
-<a href="https://www.hackerrank.com/Ayush100">
+<a href="https://www.hackerrank.com/Ayushsunny">
   <img align="left" alt="Ayush Anand| Hackerrank" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/hr.svg" />
 </a>
 <a href="https://www.codechef.com/users/ayush_anand1">

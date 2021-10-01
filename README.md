@@ -1,6 +1,6 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm Ayush</h1>
+<h2> 👋 Hey there! I'm Ayush</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ayush -->
 
@@ -39,10 +39,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Ayushsunny">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayushsunny&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

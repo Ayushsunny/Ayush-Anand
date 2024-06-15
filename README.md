@@ -1,42 +1,34 @@
+<h1 align="center">Hi, I'm Ayush!</h1>
+<h3 align="left">Passionate Software Developer specializing in building impactful and efficient applications. With a strong foundation in FullStack development and a keen interest in AI and data-driven solutions, I am excited to take on challenging projects that drive innovation and deliver exceptional user experiences. Discover more about my work by checking out my <a href="https://ayushsunny.github.io"><b>portfolio</b></a> and connecting with me on <a href="https://www.linkedin.com/in/ayush-sunny"><b>LinkedIn</b></a>!</h3>
 
 
-<h2> 👋 Hey there! I'm Ayush</h2>
+<hr>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Ayush -->
+💻 Currently building **[INVII](https://github.com/IVIII).**
 
-## 👨🏻‍💻 &nbsp;About Me
+🌱 Currently learning **Generative AI and NLP.**
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at IIIT - Jabalpur.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Music Production and Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ayush100anand@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1q6k6aL7d2epfcKEIA8uO9LuerNYSG_hD/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+⚙️ Skilled in **Python, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, SQL, and Go.**
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+📚 Interested in **software development entrepreneurship, quantitative trading and product management.**
 
-## 🛠 &nbsp;Tech Stack
+🌐 Ask me about **my open-source contributions and music production.**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=276DC3)\
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=androidstudio)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
+📨 How to reach me: **ayush.iiitdmj@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/ayush-sunny)**
+
+🎉 Leadership: I have led a team of over 400 students in open-source contributions as the Open Source Lead for the Google Developer Student Club at IIITDM, Jabalpur.
+
+<hr>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,next,nodejs,express,go,mysql,mongodb,docker,aws,git,github,html,css,tailwind,figma&perline=9" />
+  </a>
+</p>
+
+
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -46,14 +38,3 @@
 </a>
 </p>
 
- 
- ## 🤝🏻 &nbsp;Connect with Me
-
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:20bcs051@iiitdmj.ac.in)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
-[facebook]: https://www.facebook.com/Ayuszzh/
-[instagram]: https://www.instagram.com/Ayuszzh/   
-[linkedin]: https://www.linkedin.com/in/ayush-sunny/

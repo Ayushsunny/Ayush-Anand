@@ -4,7 +4,7 @@
 
 <hr>
 
-💻 Currently building **[INVII](https://github.com/IVIII).**
+💻 My Key Projects **[INVII](https://github.com/INVIII).**
 
 🌱 Currently learning **Generative AI and NLP.**
 
